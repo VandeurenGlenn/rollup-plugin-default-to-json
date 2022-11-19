@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-default-to-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "export default as a json",
   "main": "default-to-json.js",
   "type": "module",
