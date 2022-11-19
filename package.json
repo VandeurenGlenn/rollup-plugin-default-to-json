@@ -1,0 +1,13 @@
+{
+  "name": "rollup-plugin-default-to-json",
+  "version": "1.0.0",
+  "description": "export default as a json",
+  "main": "default-to-json.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
