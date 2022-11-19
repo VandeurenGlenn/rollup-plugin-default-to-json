@@ -9,5 +9,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VandeurenGlenn/rollup-plugin-default-to-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VandeurenGlenn/rollup-plugin-default-to-json/issues"
+  },
+  "homepage": "https://github.com/VandeurenGlenn/rollup-plugin-default-to-json#readme"
 }
